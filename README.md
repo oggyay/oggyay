@@ -20,6 +20,20 @@ I am a **Senior Backend and Full Stack Engineer** with over 8 years of experienc
 
 ---
 
+## 🚀 Featured Open-Source Projects
+
+### 💳 [CatatIN — Multi-Tenant Financial Platform](https://github.com/oggyay/catatin)
+A production-grade multi-tenant personal and SMB financial ledger platform featuring conversational WhatsApp bot input, a responsive React web dashboard, and a native Android client. Built with Node.js, Express, Prisma ORM, PostgreSQL, and Docker.
+- **Tech Stack:** Node.js, Express, Prisma, PostgreSQL, Redis, React 18, Kotlin (Jetpack Compose), Docker.
+- **Highlights:** Strict tenant isolation, double-entry transactional ledger, conversational AI parser, and Diátaxis framework documentation.
+
+### 💰 [Kas-PKP2 — Community Treasury Dashboard](https://github.com/oggyay/kas-pkp2)
+A responsive and mobile-friendly community treasury and cashflow monitoring dashboard with executive KPIs, monthly trend charts, matrix ledger tables, and dynamic data integration.
+- **Tech Stack:** React 18, TypeScript, Tailwind CSS, Vite.
+- **Highlights:** Zero UI clipping mobile layouts, local storage state persistence, and instant lookup modals.
+
+---
+
 ## 🛠️ Tech Stack & Capabilities
 
 ### 💻 Languages
@@ -64,7 +78,7 @@ I am a **Senior Backend and Full Stack Engineer** with over 8 years of experienc
 
 ---
 
-## 📌 Featured Engineering Highlights
+## 📌 Enterprise Engineering Highlights
 
 - **Sovereign Retail Debt Platform Modernization (SBN Ritel):** Migrated legacy monolithic architecture to high-performance Node.js BFF and cross-platform Flutter application with zero downtime.
 - **Large-Scale Data Streaming Engine:** Architected chunked streaming ingestion processing 7.5M+ daily transaction records from custodial clearing networks without memory leaks or swap exhaustion.
